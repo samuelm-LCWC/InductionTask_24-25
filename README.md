@@ -1,6 +1,9 @@
 # InductionTask
 SM - Course Tutor, I added this using my machine and Git!
 ## Level 3
+
+OJ - Better at IT than EK.
+
 ## Level 4
 JA - Learning code
 
