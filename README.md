@@ -2,6 +2,8 @@
 SM - Course Tutor, I added this using my machine and Git!
 ## Level 3
 
+OJ - Better at IT than EK.
+
 EthanA - I'm looking forward to doing more of the programming tasks.
 
 EK - oliver oliver never before has a boy asked for more
