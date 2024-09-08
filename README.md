@@ -2,6 +2,7 @@
 SM - Course Tutor, I added this using my machine and Git!
 ## Level 3
 
+EthanA - I'm looking forward to doing more of the programming tasks.
 
 EK - oliver oliver never before has a boy asked for more
 
