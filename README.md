@@ -4,6 +4,16 @@ SM - Course Tutor, I added this using my machine and Git!
 
 EthanA - I'm looking forward to doing more of the programming tasks.
 
+EK - oliver oliver never before has a boy asked for more
+
+Clover - please buy payday 3 :grin:
+
+KK Liverpool is the best team
+
+DM shout out to kezz
+
+HT Minecraft in real life
+
 ## Level 4
 JA - Learning code
 
